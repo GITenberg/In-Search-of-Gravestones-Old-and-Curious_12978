@@ -1,0 +1,28 @@
+_repo: In-Search-of-Gravestones-Old-and-Curious_12978
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 12978/12978-h/images/frontis.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Vincent, W. T. (William Thomas)
+    alias: Vincent, William Thomas
+    gutenberg_agent_id: '4760'
+    url: http://www.gutenberg.org/2009/agents/4760
+description: ''
+gutenberg_issued: '2004-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12978'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sepulchral monuments'
+- !lcc 'NB'
+- GITenberg
+title: In Search of Gravestones Old and Curious
+url: http://www.gutenberg.org/ebooks/12978
